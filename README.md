@@ -1,7 +1,6 @@
 # Alex Woollam, 
-## Senior Developer Proagrica.
 
-Senior developer, focused mainly in the PHP & React eco-sphere, but always learning.
+Senior developer, focused mainly in the PHP & React eco-sphere, but always learning cool new things.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexwoollam&layout=compact)](https://github.com/alexwoollam/)
 
