@@ -3,10 +3,11 @@
 
 Senior developer, focused mainly in the PHP & React eco-sphere, but always learning.
 
-![PHP](https://img.shields.io/badge/PHP-Wizard-blue)
+![PHP](https://img.shields.io/badge/PHP-Wizard-red)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Ninja-yellow)
+![Docker](https://img.shields.io/badge/Docker-Advanced-green)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-lightgrey)
-![Docker](https://img.shields.io/badge/Docker-Advanced-blue)
+
 
 
 - 🌱 I’m currently learning **Frontity**, **Typescript** and a bit Of **C# (asp.net core)**
