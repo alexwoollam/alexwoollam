@@ -3,7 +3,8 @@
 
 Senior developer, focused mainly in the PHP & React eco-sphere, but always learning.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexwoollam)](https://github.com/alexwoollam/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexwoollam&layout=compact)](https://github.com/alexwoollam/github-readme-stats)
+
 
 - 🌱 I’m currently learning **Frontity**, **Typescript** and a bit Of **C# (asp.net core)**
 - ⚙️ Always Mastering: `docker`,`php`,`js`
