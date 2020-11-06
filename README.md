@@ -1,16 +1,22 @@
-### Hi there 👋
+# Alex Woollam, 
+## Senior Developer Proagrica.
 
-<!--
-**alexwoollam/alexwoollam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior developer, focused mainly in the PHP & React eco-sphere, but always learning.
 
-Here are some ideas to get you started:
+![PHP](https://img.shields.io/badge/PHP-Wizard-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Ninja-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-lightgrey)
+![Docker](https://img.shields.io/badge/Docker-Advanced-blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently learning **Frontity**, **Typescript** and a bit Of **C# (asp.net core)**
+- ⚙️ Always Mastering: `docker`,`php`,`js`
+- 👯 Keen collaborator on **open source** projects
+- 💬 I'm mostly active within the **WordPress**, **Composer** and **React** communities
+
+### 📚 Looking for my Resume? E-Mail me!
+
+![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexwoollam&show_icons=true&hide_border=true)
+
+[github]: https://github.com/alexwoollam
+[site]: https://alexwoollam.github.io
