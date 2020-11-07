@@ -1,4 +1,4 @@
-# Alex Woollam, 
+# Alex Woollam
 
 Senior developer, focused mainly in the PHP & React eco-sphere, but always learning cool new things.
 
